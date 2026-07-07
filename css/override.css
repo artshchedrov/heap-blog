@@ -156,10 +156,10 @@ a:visited {
   font-family: open sans,monospace;
   font-weight: 700;
   text-transform: uppercase;
+  padding-top: 10%;
 }
 
 .footer-col {
-  width: none;
   font-family: open-sans, monospace;
   font-size: 16px;
   color: black;
