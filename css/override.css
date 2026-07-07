@@ -159,6 +159,7 @@ a:visited {
 }
 
 .footer-col {
+  width: none;
   font-family: open-sans, monospace;
   font-size: 16px;
   color: black;
