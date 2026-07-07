@@ -1,0 +1,161 @@
+hr {
+  margin-top: 30px;
+  margin-bottom: 20px;
+}
+
+.wrapper {
+  max-width: calc(1000px - (30px * 2));
+}
+
+/* Post navigation links */
+.post_navi {
+  display: flex;
+}
+
+.page-link {
+  text-transform: uppercase;
+  font-weight: bold;
+  font-family: monospace;
+}
+
+.home {
+  font-family: open-sans, monospace;
+}
+
+.home hr {
+  margin-top: 0;
+}
+
+.post_navi-label {
+  font-size: 0.8em;
+  opacity: 0.5;
+  font-family: merriweather,serif;
+  text-transform: uppercase;
+ 
+}
+
+.post_navi-item span {
+  font-family: open sans,monospace;
+  color: #3a4145;
+  font-weight: 700;
+  font-size: 16px;
+}
+
+.post_navi .post_navi-item {
+  padding: 0 2.2em;
+  width: 50%;
+  position: relative;
+  color: inherit !important;
+}
+
+.post_navi .nav_prev {
+  text-align: left;
+}
+
+.post_navi .nav_next {
+  text-align: right;
+}
+
+.post_navi .nav_prev .post_navi-arrow {
+  left: 0;
+}
+
+.post_navi .nav_next .post_navi-arrow {
+  right: 0;
+}
+
+.post_navi .post_navi-arrow {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  font-size: 2.5em;
+  opacity: 0.3;
+}
+
+.post-title {
+  font-family: open sans,monospace;
+  color: #3a4145;
+  font-weight: 700;
+  font-size: 16px;
+  text-transform: uppercase;
+  
+}
+
+.post-content {
+  font-family: open-sans, monospace;
+  font-size: 16px;
+}
+
+.post-content a {
+  background-color: white;
+  text-decoration: underline;
+}
+
+.post-content h3 {
+  font-size: 16px;
+  text-transform: uppercase;
+  font-weight: bold;
+  
+}
+
+.post-meta {
+  font-family: open-sans, monospace;
+  font-size: 16px;
+  color: black;
+  margin-right: 20px;
+}
+
+.site-title {
+  font-family: open sans,monospace;
+  font-weight: 700;
+  text-transform: uppercase;
+  font-size: 16px;
+}
+
+.post-link {
+  font-weight: bold;
+  font-size: 16px;
+  text-decoration: underline;
+  color: black;
+}
+
+a:visited {
+  color: black;
+}
+
+.rss-subscribe {
+  display: none;
+}
+
+.post-list-heading {
+  font-size: 16px;
+}
+
+.post-list li {
+  display: flex;
+}
+
+.post-list > li {
+  margin-bottom: 2px;
+  
+}
+
+.post-list > li > h3 {
+  margin-bottom: 5px;
+}
+
+.post-list-heading {
+  font-family: open sans,monospace;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+
+.footer-col {
+  font-family: open-sans, monospace;
+  font-size: 16px;
+  color: black;
+}
+
+.footer-heading {
+  display: none;
+}
