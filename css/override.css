@@ -3,6 +3,12 @@ hr {
   margin-bottom: 20px;
 }
 
+img {
+  max-width: 100%;
+  display: block;
+  margin: auto;
+}
+
 .wrapper {
   max-width: calc(1000px - (30px * 2));
 }
