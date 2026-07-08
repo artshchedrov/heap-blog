@@ -111,6 +111,10 @@ img {
   font-size: 16px;
   color: black;
   margin-right: 20px;
+  display: inline-block;
+  text-align: left;
+  vertical-align: middle;
+  width: 150px;
 }
 
 .site-title {
