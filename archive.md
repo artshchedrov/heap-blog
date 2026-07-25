@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Архив
+title: Обо мне
 ---
 
 {% for tag in site.tags %}
