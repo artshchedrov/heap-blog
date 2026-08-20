@@ -21,6 +21,7 @@ theme: "minima"
 
 nav_pages:
   - lab.md
+  - about.md
     
 plugins:
   - jekyll-sitemap
