@@ -18,6 +18,9 @@ theme: "minima"
 #kramdown:
 #  syntax_highlighter_opts:
 #    disable: true
+
+nav_pages:
+  - lab.md
     
 plugins:
   - jekyll-sitemap
