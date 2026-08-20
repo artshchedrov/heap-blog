@@ -14,8 +14,8 @@ linkedin_username: "artyom-shchedrov-0103243a6"
 theme: "minima"
 
 nav_pages:
-  - about.md
   - lab.md
+  - qabout.md
     
 plugins:
   - jekyll-sitemap
