@@ -7,10 +7,10 @@ title: Обо мне
 
 ### Контакты:
 
-Linkedin https://www.linkedin.com/in/artyom-shchedrov-0103243a6/
+Linkedin [https://www.linkedin.com/in/artyom-shchedrov-0103243a6/]
 
-Habr https://habr.com/ru/users/artschedrov/
+Habr [https://habr.com/ru/users/artschedrov/]
 
-Github https://github.com/artshchedrov
+Github [https://github.com/artshchedrov]
 
-ORCID https://orcid.org/0009-0005-2685-2695
+ORCID [https://orcid.org/0009-0005-2685-2695]
