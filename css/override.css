@@ -23,11 +23,6 @@ img {
 .page-link {
   text-transform: uppercase;
   font-weight: bold;
-  font-family: monospace;
-}
-
-.home {
-  font-family: open-sans, monospace;
 }
 
 .home hr {
@@ -43,7 +38,6 @@ img {
 }
 
 .post_navi-item span {
-  font-family: open sans,monospace;
   color: #3a4145;
   font-weight: 700;
   font-size: 16px;
@@ -81,7 +75,6 @@ img {
 }
 
 .post-title {
-  font-family: open sans,monospace;
   color: #3a4145;
   font-weight: 700;
   font-size: 16px;
@@ -90,7 +83,6 @@ img {
 }
 
 .post-content {
-  font-family: open-sans, monospace;
   font-size: 16px;
 }
 
@@ -107,7 +99,6 @@ img {
 }
 
 .post-meta {
-  font-family: open-sans, monospace;
   font-size: 16px;
   color: black;
   margin-right: 20px;
@@ -118,7 +109,6 @@ img {
 }
 
 .site-title {
-  font-family: open sans,monospace;
   font-weight: 700;
   text-transform: uppercase;
   font-size: 16px;
@@ -157,14 +147,12 @@ a:visited {
 }
 
 .post-list-heading {
-  font-family: open sans,monospace;
   font-weight: 700;
   text-transform: uppercase;
   padding-top: 10%;
 }
 
 .footer-col {
-  font-family: open-sans, monospace;
   font-size: 16px;
   color: black;
 }
