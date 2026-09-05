@@ -18,8 +18,8 @@ nav_pages:
 plugins:
   - jekyll-sitemap
   
-home_post_limit: 10
-list_title: "Посты"
+home_post_limit: 30
+list_title: ""
 
 titles_from_headings:
   strip_title: true
