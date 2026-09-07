@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Отношения и таблицы"
-categories: теории
+categories: theory
 ---
 
 ## Отношения и таблицы
