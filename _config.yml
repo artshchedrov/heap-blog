@@ -13,7 +13,7 @@ linkedin_username: "artyom-shchedrov-0103243a6"
 theme: "minima"
 
 nav_pages:
-  - qabout.html
+  - qabout.md
     
 plugins:
   - jekyll-sitemap
