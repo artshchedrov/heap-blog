@@ -20,7 +20,7 @@ nav_pages:
 plugins:
   - jekyll-sitemap
   
-home_post_limit: 30
+home_post_limit: 5
 list_title: ""
 
 titles_from_headings:
