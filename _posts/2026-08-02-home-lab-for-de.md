@@ -1,4 +1,10 @@
-## #lab Homelab для дата инженерии из игрового ПК
+---
+layout: post
+title: "Homelab для дата инженерии из игрового ПК"
+categories: Homelab
+---
+
+## Homelab для дата инженерии из игрового ПК
 
 Почитать на Хабре: [Homelab для дата инженерии из игрового ПК](https://habr.com/ru/articles/1065552/)
 
