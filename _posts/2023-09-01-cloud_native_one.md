@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Введение в Cloud native. Часть 1. Определение и модель облачных вычислений"
-categories: cloud
+categories: other
 ---
 
 ## Введение в Cloud native. Часть 1. Определение и модель облачных вычислений

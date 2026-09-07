@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Введение в Cloud native. Часть 2. Принципы облачных приложений"
-categories: cloud
+categories: other
 ---
 
 ## Введение в Cloud native. Часть 2. Принципы облачных приложений

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Debian GNU/Linux + Macbook Air 2017 - установка wifi драйверов"
-categories: скрипты
+categories: scripts
 ---
 
 ## Debian GNU/Linux + Macbook Air 2017 - установка wifi драйверов

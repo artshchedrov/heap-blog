@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Запуск Ollama в docker compose"
-categories: скрипты
+categories: scripts
 ---
 
 ## Запуск Ollama в docker compose
