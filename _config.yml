@@ -21,7 +21,7 @@ plugins:
   - jekyll-sitemap
   
 home_post_limit: 5
-list_title: ""
+list_title: "Последнее"
 
 titles_from_headings:
   strip_title: true
