@@ -152,6 +152,13 @@ a:visited {
   padding-top: 10%;
 }
 
+.cat-list-heading {
+  font-size: 16px;
+  font-weight: 700;
+  text-transform: uppercase;
+  padding-top: 5%;
+}
+
 .footer-col {
   font-size: 16px;
   color: black;
