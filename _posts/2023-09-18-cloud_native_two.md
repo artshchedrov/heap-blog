@@ -1,3 +1,9 @@
+---
+layout: post
+title: "Введение в Cloud native. Часть 2. Принципы облачных приложений"
+categories: cloud
+---
+
 ## Введение в Cloud native. Часть 2. Принципы облачных приложений
 
 Почитать на Хабре: [Введение в Cloud native. Часть 2. Принципы облачных приложений](https://habr.com/ru/articles/760348/)
