@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Homelab для дата инженерии из игрового ПК"
-categories: homelab
+categories: other
 ---
 
 ## Homelab для дата инженерии из игрового ПК

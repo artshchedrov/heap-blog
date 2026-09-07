@@ -54,4 +54,19 @@ layout: default
         </ul>
     </div>
     {%- endif %}
+    {% for category in site.categories %}
+  <h2 class="post-list-heading">Homelab обновления</h2>
+  <ul>
+    {% for post in category.homelab limit:3 %}
+      <li>
+        <span class="post-meta">{{ post.date | date: "%b %d, %Y" }}</span>
+        <h3>
+          <a class="post-link" href="{{ post.url | relative_url }}">
+            {{ post.title | escape }}
+          </a>
+        </h3>
+      </li>
+    {% endfor %}
+  </ul>
+{% endfor %}
 </div>
