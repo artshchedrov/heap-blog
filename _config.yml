@@ -13,8 +13,8 @@ linkedin_username: "artyom-shchedrov-0103243a6"
 theme: "minima"
 
 nav_pages:
+  - theor.html
   - homelab.html
-  - category.html
   - qabout.md
     
 plugins:
