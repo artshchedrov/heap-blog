@@ -15,7 +15,7 @@ theme: "minima"
 nav_pages:
   - theor.html
   - homelab.html
-  - qabout.md
+  - zabout.md
     
 plugins:
   - jekyll-sitemap
