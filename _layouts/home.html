@@ -54,4 +54,26 @@ layout: default
         </ul>
     </div>
     {%- endif %}
+    <h2 class="post-list-heading">Навигация</h2>
+    <ul class="post-list">
+        <li>
+            <span class="post-meta"></span>
+            <h3>
+                <a class="post-link" href="">
+                    Homelab
+                </a>
+            </h3>
+            {%- if site.show_excerpts -%}
+            {{ post.excerpt }}
+            {%- endif -%}
+        </li>
+        <li>
+            <span class="post-meta"></span>
+            <h3>
+                <a class="post-link" href="">
+                    Категории
+                </a>
+            </h3>
+        </li>
+    </ul>
 </div>
