@@ -156,6 +156,10 @@ a:visited {
   padding-top: 10%;
 }
 
+.language-yaml {
+  background-color: none
+}
+
 .cat-list-heading {
   font-size: 16px;
   font-weight: 700;
