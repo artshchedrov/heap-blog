@@ -13,9 +13,9 @@ linkedin_username: "artyom-shchedrov-0103243a6"
 theme: "minima"
 
 nav_pages:
-  - other.html
-  - scripts.html
-  - homelab.html
+#  - other.html
+#  - scripts.html
+#  - homelab.html
   - zabout.md
     
 plugins:
