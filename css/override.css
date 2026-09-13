@@ -119,8 +119,8 @@ img {
 }
 
 .post-wrapper {
-  display: flex,
-  align-content: baseline
+  display: flex;
+  align-items: baseline;
 }
 
 .post-link {
