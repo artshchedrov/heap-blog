@@ -18,8 +18,8 @@ nav_pages:
 plugins:
   - jekyll-sitemap
   
-home_post_limit: 5
-list_title: "Последнее"
+home_post_limit: 20
+list_title: "Статьи, посты"
 
 highlighter: none
 kramdown:

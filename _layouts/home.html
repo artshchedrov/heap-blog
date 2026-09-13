@@ -18,31 +18,43 @@ layout: default
 
     <div>
         <div>
-           {%- if posts.size > 0 -%}
-            <h2 class="post-list-heading">Последнее</h2>
-            {%- endif -%}
-            <ul class="post-list">
-                {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
-                {% for post in posts limit: 30 %}
-                    {% unless post.categories contains "homelab" %}
-                        <li>
-<!--                            <span class="post-meta">{{ post.date | date: date_format }}</span>-->
-                            <h3>
-                                <a class="post-link" href="{{ post.url | relative_url }}">
-                                    {{ post.title | escape }}
-                                </a>
-                            </h3>
-                            {%- if site.show_excerpts -%}
-                            {{ post.excerpt }}
-                            {%- endif -%}
-                        </li>
-                    {% endunless %}
-                {%- endfor -%}
-            </ul>
+            <div>
+                {%- if posts.size > 0 -%}
+                <h2 class="post-list-heading">Статьи, посты</h2>
+                {%- endif -%}
+                <ul class="post-list">
+                    {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
+                    {% for post in posts limit: 30 %}
+                        {% unless post.categories contains "homelab" %}
+                            <li>
+    <!--                            <span class="post-meta">{{ post.date | date: date_format }}</span>-->
+                                <h3>
+                                    <a class="post-link" href="{{ post.url | relative_url }}">
+                                        {{ post.title | escape }}
+                                    </a>
+                                </h3>
+                                {%- if site.show_excerpts -%}
+                                {{ post.excerpt }}
+                                {%- endif -%}
+                            </li>
+                        {% endunless %}
+                    {%- endfor -%}
+                </ul>
+            </div>
+            <div>
+                <h2 class="post-list-heading">На Хабре</h2>
+                <ul class="post-list">
+                    <li>
+                        <h3>
+                            <a href="https://habr.com/ru/articles/1065552/">Homelab для дата инженерии из игрового ПК</a>
+                        </h3>
+                    </li>
+                </ul>
+            </div>
         </div>
 
         <div>
-            <h2 class="post-list-heading">Homelab обновления</h2>
+            <h2 class="post-list-heading">Homelab</h2>
             <ul class="post-list">
                 {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
                 {% for post in site.categories.homelab limit:30 %}
