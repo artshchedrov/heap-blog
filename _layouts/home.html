@@ -54,7 +54,7 @@ layout: default
                                 {%- endif -%}
                             </li>
                             {{ post.content | strip_html | truncatewords:50}}
-                            <br><a href="{{ post.url | relative_url }}">Read more...</a><br><br>
+                            <br><a href="{{ post.url | relative_url }}">Читать далее...</a><br><br>
                         {% endunless %}
                     {%- endfor -%}
                 </ul>
