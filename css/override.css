@@ -75,7 +75,6 @@ img {
 }
 
 .post-title {
-  color: #3a4145;
   font-weight: 700;
   font-size: 16px;
   text-transform: uppercase;
@@ -126,10 +125,6 @@ img {
 .post-link {
   font-size: 16px;
   text-decoration: underline;
-  color: black;
-}
-
-a:visited {
   color: black;
 }
 
