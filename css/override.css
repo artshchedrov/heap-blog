@@ -174,3 +174,7 @@ code {
 .footer-heading {
   display: none;
 }
+
+.post-list {
+  width: 90%;
+}
