@@ -90,13 +90,6 @@ img {
   text-decoration: underline;
 }
 
-.post-content h3 {
-  font-size: 16px;
-  text-transform: uppercase;
-  font-weight: bold;
-  
-}
-
 .post-content pre {
   background-color: #f9f9f9
 }
