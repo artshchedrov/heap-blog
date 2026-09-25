@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Настройка мониторинга postgresql и основные метрики"
-categories: homelab
+categories: other
 ---
 
 ## Настройка мониторинга postgresql и основные метрики
