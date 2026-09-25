@@ -32,4 +32,4 @@ categories: homelab
 | 2 (для репликации) | 2 CPU | 4 GB | 50GB |
 | 3 (для репликации) | 2 CPU | 4 GB | 50GB |
 
-Далее создадим структуру [таблиц основных сущностей](https://artshchedrov.github.io/heap-blog/homelab/2026/07/28/P0001DP-make-er.html)
+Cледующим шагом, создадим структуру [таблиц основных сущностей](https://artshchedrov.github.io/heap-blog/homelab/2026/07/28/P0001DP-make-er.html).
